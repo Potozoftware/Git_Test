@@ -1,3 +1,6 @@
+int me;
+int you;
+
 print ("Hola Mundo");
 if(I==you){
 print("love you");
